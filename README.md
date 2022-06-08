@@ -1,0 +1,1 @@
+# Detection-of-COVID19-and-Pneumonia-from-an-Image
